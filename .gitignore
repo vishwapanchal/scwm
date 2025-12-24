@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# ML / Large files
+*.pt
+*.h5
+*.onnx
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
